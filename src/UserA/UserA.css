@@ -1,0 +1,30 @@
+
+.usera-container {
+    padding: 20px;
+  }
+  
+  .funcionalidades-lista {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .funcionalidades-lista li {
+    margin-bottom: 10px;
+  }
+  
+  .upload-section {
+    margin-top: 20px;
+  }
+  
+  .upload-section input[type="file"] {
+    margin-right: 10px;
+  }
+  
+  .success {
+    color: green;
+  }
+  
+  .error {
+    color: red;
+  }
+  

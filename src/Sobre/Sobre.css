@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+ .A1{
+    text-align: center;
+    padding-top: 2%;
+  }
+  .A1 img{
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+  }
+  .A{
+    text-align: center;
+    padding-top: 2%;
+  }
